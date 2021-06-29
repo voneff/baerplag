@@ -10,5 +10,6 @@ defaults:
       image: /assets/img/obsolete_stadt_og_image.png
 
 # Build settings
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-seo-tag

@@ -1,0 +1,3 @@
+# BaerPlag
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/Plagiatsvorw%C3%BCrfe?src=hash&amp;ref_src=twsrc%5Etfw">#Plagiatsvorwürfe</a> gegen Annalena <a href="https://twitter.com/hashtag/Baerbock?src=hash&amp;ref_src=twsrc%5Etfw">#Baerbock</a>. Was ist dran?<br>Spoiler: 𝗡𝗜𝗖𝗛𝗧𝗦, da bloße Übernahme von Sachinformation, wörtlicher Rede und zudem kein Zitiergebot in Populärliteratur: Ein Thread: 👇</p>&mdash; Felix W. Zimmermann (@fewizi) <a href="https://twitter.com/fewizi/status/1409869123111342092?ref_src=twsrc%5Etfw">June 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

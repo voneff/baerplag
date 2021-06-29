@@ -1,10 +1,6 @@
-# BaerPlag
-
 „Schwere Plagiatsvorwürfe gegen Anna-Lena Baerbock“ titel Focus Online.
-Was ist dran? Felix W. Zimmermann hat auf Twitter die Vorwürfe durchgeschaut.
+Was ist dran? Felix W. Zimmermann hat sich die Vorwürfe auf Twitter genauer angeschaut.
 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/Plagiatsvorw%C3%BCrfe?src=hash&amp;ref_src=twsrc%5Etfw">#Plagiatsvorwürfe</a> gegen Annalena <a href="https://twitter.com/hashtag/Baerbock?src=hash&amp;ref_src=twsrc%5Etfw">#Baerbock</a>. Was ist dran?<br>Spoiler: 𝗡𝗜𝗖𝗛𝗧𝗦, da bloße Übernahme von Sachinformation, wörtlicher Rede und zudem kein Zitiergebot in Populärliteratur: Ein Thread: 👇</p>&mdash; Felix W. Zimmermann (@fewizi) <a href="https://twitter.com/fewizi/status/1409869123111342092?ref_src=twsrc%5Etfw">June 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-last
 
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="de" dir="ltr">Dass <a href="https://twitter.com/RolandTichy?ref_src=twsrc%5Etfw">@RolandTichy</a> und <a href="https://twitter.com/_donalphonso?ref_src=twsrc%5Etfw">@_donalphonso</a> ohne Prüfung die Plagiatsvorwürfe übernehmen, spricht Bände. Sie entbehren indes der Grundlage. /16 end (sorry für Doppelpost)</p>&mdash; Felix W. Zimmermann (@fewizi) <a href="https://twitter.com/fewizi/status/1409873298964553751?ref_src=twsrc%5Etfw">June 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

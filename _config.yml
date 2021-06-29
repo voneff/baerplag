@@ -1,0 +1,14 @@
+title: #BaerPlag
+tagline: Ist was dran? Nö.
+description: Raumpotentiale für eine gemeinwohlorientierte, klimagerechte und koproduktive Stadtentwicklung in wachsenden Großstädten
+url: https://baerplag.de
+lang: de_DE
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/obsolete_stadt_og_image.png
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
